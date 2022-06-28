@@ -18,8 +18,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ()
+- Live Site URL: (https://nikakl.github.io/NFT-challenge/)
 
 
 ### Built with
